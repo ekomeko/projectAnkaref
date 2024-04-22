@@ -18,4 +18,4 @@ Projede mssql kullandigim icin database bilgilerini gizlemek zorunda kaldim o yu
 Ankarefe Bana bu projeyi verdigi icin tesekkur ediyorum
 
 
-Son olarak bu projeyi yaklasik 8 ay once yaptim fakat birkac aksakliktan dolayi githuba yukleyemedim.
+Son olarak bu projeyi yaklasik 8 ay once yaptim fakat birkac aksakliktan dolayi githuba yukleyemedim.s
